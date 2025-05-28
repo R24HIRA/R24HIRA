@@ -7,3 +7,4 @@ Always down for a solid discussion
 📍 Based somewhere between ambition and burnout
 📩 DMs open for collabration  
 
+1% a day.
