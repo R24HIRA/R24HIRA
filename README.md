@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @R24HIRA
-- 👀 I’m interested in ...learning programing mostly cyber secruity and video games
-- 🌱 I’m currently learning ...JavaScipt and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Rajhira24@gmail.com
+🌐 Curious Mind | 🧠 Lifelong Learner | 💬 Here for the Good Takes
 
-<!---
-R24HIRA/R24HIRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m into tech, Machine Learning, AI, and the occasional rabbit hole.
+Trying to make sense of the world one thread at a time.
+Always down for a solid discussion
+
+📍 Based somewhere between ambition and burnout
+📩 DMs open for collabration  
+
