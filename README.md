@@ -1,4 +1,4 @@
-🌐 Curious Mind | 🧠 Lifelong Learner | 💬 Here for the Good Takes
+🌐 Curious Mind | 🧠 Lifelong Learner 
 
 I’m into tech, Machine Learning, AI, and the occasional rabbit hole.
 Trying to make sense of the world one thread at a time.
